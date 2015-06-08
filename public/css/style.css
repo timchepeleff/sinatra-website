@@ -4,7 +4,7 @@ body {
   font-family: 'Dosis', sans-serif;
 }
 .index {
-  background-image: url("/img/index-image.jpg");
+  background-image: url("/img/SplitShire.jpg");
 }
 
 .about {
@@ -12,19 +12,17 @@ body {
 }
 
 .contact {
-  background-image: url("/img/contact-image.jpg");
+  background: url("/img/contact-image.jpg");
 }
 
 .work {
-  background-image: url("/img/work-image.jpg");
+  background: url("/img/work-image.jpg");
 
 }
 
 .hero {
-  height: 400px;
+  height: 800px;
   margin: 0px;
-  margin-left: 10px;
-  margin-right: 10px;
   padding: 0px;
 
 
